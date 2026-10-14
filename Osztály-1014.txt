@@ -1,0 +1,12 @@
+class kutya{
+
+    String nev;
+
+    int kor;        }
+    
+public class Main{
+    public static void main(String[] args) {
+
+
+
+}}
